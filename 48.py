@@ -1,3 +1,6 @@
+#Напишите программу, запрашивающую у пользователя дату его рожде-
+#ния и выводящую на экран соответствующий знак зодиака.
+
 month = input('Enter your birth month: ').lower()
 day = int(input('Enter your day of the birth: '))
 
