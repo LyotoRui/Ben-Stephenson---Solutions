@@ -9,4 +9,3 @@ d = min(m,n)
 while m % d != 0 or n % d != 0:
     d -= 1
     print('{} is the common divisor of {} and {}'. format(d, m, n))
-    
